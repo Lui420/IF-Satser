@@ -72,7 +72,7 @@ namespace if_satser
             {
                 Console.WriteLine(" tal 2 var störst");
             }
-             
+              
             //ovning 4
             Console.WriteLine("Mata in ett tal");
             string inmatat5 = Console.ReadLine();
